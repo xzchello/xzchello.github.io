@@ -1,8 +1,11 @@
 ## Zichen Xie
 
 Bachelor of Statistics
-School of Mathematics Science
+
+School of Mathematical Sciences
+
 Peking University
+
 Email: 1900010620@pku.edu.cn
 
 ## About Me
