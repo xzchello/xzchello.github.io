@@ -12,7 +12,7 @@ Email: 1900010620@pku.edu.cn
 
 ## Education
 
-School of Mathematics, Peking University
+School of Mathematical Sciences, Peking University
 
 You can use the [editor on GitHub](https://github.com/xzchello/xzchello.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
