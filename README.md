@@ -10,6 +10,10 @@ Email: 1900010620@pku.edu.cn
 
 ## About Me
 
+## Education
+
+School of Mathematics, Peking University
+
 You can use the [editor on GitHub](https://github.com/xzchello/xzchello.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
